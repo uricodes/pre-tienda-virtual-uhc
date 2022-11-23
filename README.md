@@ -8,3 +8,4 @@ Se notara que si seleccionamos cualquier playera nos redigira a una misma, eso e
 El usuario en la seccion de la camisa, no podrá elegir más de 100 playeras, ni menos de 1 playera.
 Hay también el uso de refeencias a diferentes paginas HTML y un buen uso de CCS para las secciones.
 Es una buena práctica para ahorrar código, trate de colocar el codigo para que cualquier persona pueda leerlo y entenderlo.
+UHC
